@@ -2,8 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="light_gray">#F9F8F6</color>
-    <color name="gray">#EFE9E3</color>
-    <color name="dark_gray">#D9CFC7</color>
-    <color name="coffee">#C9B59C</color>
+    <color name="dark_charcoal_grey">#1F1F1F</color>
+    <color name="warm_yellow">#FFB300</color>
+    <color name="off_white">#E0E0E0</color>
+    <color name="muted_medium_grey">#A0A0A0</color>
+    <color name="muted_dark_grey">#757575</color>
+    <color name="dark_red">#b00000</color>
 </resources>
